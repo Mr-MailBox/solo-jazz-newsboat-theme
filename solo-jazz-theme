@@ -1,0 +1,28 @@
+# inspired by https://github.com/cstby/solo-jazz-emacs-theme
+
+#color <element> <foreground color> <background color> [<attribute> ...]
+#https://newsboat.org/releases/2.23/docs/newsboat.html#_configuring_colors
+
+#color44 = #00d7d7
+#color126 = #af0087
+#color56 = #5f00d7
+#color27 = #005fff
+#color36 = #00af87
+#color13 = #ff00ff
+
+color background          color126   white 
+color listnormal          color56   white
+color listnormal_unread   color27     white
+color listfocus           color13   color0 bold
+color listfocus_unread    color36    color0 bold
+color info                color126   white
+color article             color126   white
+color end-of-text-marker  color13   white
+
+# highlights
+ highlight article "^(Feed|Link):.*$" color56 white bold
+ highlight article "^(Title|Date|Author):.*$" color56 white bold
+ highlight article "https?://[^ ]+" color27 white underline
+ highlight article "\\[[0-9]+\\]" color44 white bold
+ highlight article "\\[image\\ [0-9]+\\]" color44 white bold
+ highlight feedlist "^─.*$" color6 white bold
