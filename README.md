@@ -9,5 +9,6 @@ Download `solo-jazz-theme` and put it in `/usr/share/doc/newsboat/contrib/colors
 example default page:
 ![snugnus](https://user-images.githubusercontent.com/39784537/112368534-90b7d980-8cb1-11eb-890c-06a780986aaa.png)
 feel free to judge my YT channel taste
+
 example article:
 ![example article](https://user-images.githubusercontent.com/39784537/112368757-cceb3a00-8cb1-11eb-8a7f-49108e2deec6.png)
