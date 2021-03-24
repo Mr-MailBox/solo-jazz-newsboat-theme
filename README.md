@@ -1,4 +1,4 @@
-![example article](https://user-images.githubusercontent.com/39784537/112368740-c6f55900-8cb1-11eb-8882-0ec6b46651ab.png)
+
 # solo-jazz-newsboat-theme
 A newsboat theme inspired by the 1992 Solo Jazz cup design and https://github.com/cstby/solo-jazz-emacs-theme
 
